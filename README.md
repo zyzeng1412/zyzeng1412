@@ -22,10 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Email](mailto:zyzeng1412@gmaCil.com)
 - ⚡ Fun fact: I have an orange cat [@Cheetah](https://www.instagram.com/cheetahhanhan/)
 
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyzeng1412&hide=html&layout=compact" /></td>
-  </tr>  
-</table>
-</center>
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyzeng1412&hide=html&layout=compact" />
