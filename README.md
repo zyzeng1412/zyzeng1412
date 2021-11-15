@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Programmer](https://i.pinimg.com/originals/db/23/e2/db23e24f4196be2c7433ab8cd33015b0.jpg)
 -->
 
-- 🔭 I’m currently working on Bucket List App(~~iOS~~ and Android), Pixel Pet Game
+- 🔭 I’m currently working on Cat Game
 - 🌱 I’m currently learning Unity
 - 📫 How to reach me: [Email](mailto:zyzeng1412@gmaCil.com)
 - ⚡ Fun fact: I have an orange cat [@Cheetah](https://www.instagram.com/cheetahhanhan/)
