@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ![Programmer](https://i.pinimg.com/originals/db/23/e2/db23e24f4196be2c7433ab8cd33015b0.jpg)
 -->
 
-- 🔭 I’m currently working on Cat Game
-- 🌱 I’m currently learning Unity
-- 📫 How to reach me: [Email](mailto:zyzeng1412@gmaCil.com)
+- 🔭 I’m currently working on game devleopment
+- 🌱 I’m currently learning Blender
+- 📫 How to reach me: [Email](mailto:zyzeng1412@gmail.com)
 - ⚡ Fun fact: I have an orange cat [@Cheetah](https://www.instagram.com/cheetahhanhan/)
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyzeng1412&hide=html&layout=compact" />
